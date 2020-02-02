@@ -1,2 +1,2 @@
 # project-store
-Aplicação back-end feita para gerenciar projetos
+Aplicação back-end feita com NodeJS para gerenciar projetos
