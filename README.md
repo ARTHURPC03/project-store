@@ -13,3 +13,5 @@ Aplicação back-end feita com NodeJS para gerenciar projetos
 ## Deletando um projeto:
 Projeto deletado com base no id(1)
 ![image](https://user-images.githubusercontent.com/55156476/73609529-49eaba00-45ad-11ea-8692-be3322666a74.png)
+## A aplicação ainda conta com um middleware global para fazer a contagem de requisições:
+
