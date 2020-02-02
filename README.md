@@ -10,4 +10,6 @@ Aplicação back-end feita com NodeJS para gerenciar projetos
 ![image](https://user-images.githubusercontent.com/55156476/73608749-5408ba80-45a5-11ea-9b54-c72783bcc415.png)
 ## Editando um projeto:
 ![image](https://user-images.githubusercontent.com/55156476/73608782-a649db80-45a5-11ea-9eb7-888fb7afecad.png)
-
+## Deletando um projeto:
+Projeto deletado com base no id(1)
+![image](https://user-images.githubusercontent.com/55156476/73609529-49eaba00-45ad-11ea-8692-be3322666a74.png)
