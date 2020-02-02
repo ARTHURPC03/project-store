@@ -8,3 +8,6 @@ Aplicação back-end feita com NodeJS para gerenciar projetos
 ![image](https://user-images.githubusercontent.com/55156476/73608650-620a0b80-45a4-11ea-859e-03a86f318594.png)
 ## Armazenando uma tarefa:
 ![image](https://user-images.githubusercontent.com/55156476/73608749-5408ba80-45a5-11ea-9b54-c72783bcc415.png)
+## Editando um projeto:
+![image](https://user-images.githubusercontent.com/55156476/73608782-a649db80-45a5-11ea-9eb7-888fb7afecad.png)
+
